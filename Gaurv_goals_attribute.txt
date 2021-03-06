@@ -1,0 +1,76 @@
+1.
+I have added a lot of WAS & MQ related topics in the runbooks and that does not only have the concepts only but also has the trobleshooting which I have done & shared them with live expamples, the best way I can do.
+Also I have helped the WAS admin team at everyone point where they had issues during the WAS RHEL7 migration.. and cleared any doubts they had for WAS.
+
+2.
+I have given my 100 %
+
+3.
+I have given my 100 % & have not received any escalation. Also, tried to help the team during the challenging WAS RHEL7 migration that we keep up the flagh high.
+
+4.
+100 % traget achieved.
+
+5.
+1. I have given history command addition through which we can track who has done the scripts.Client has accepted the proposal.
+2. Also beyond that I have figured out that by changing the permission levels we can also save the Queue Manager by going corrupt, which will save at least 10 hours per Queue manager. And can save 30 - 40 hours per year.
+3. WIll be implementing these in this iteration as we are/were occupied with RHEL7 migrations & now with decomm work.
+
+6.
+100 % traget achieved.
+
+7.
+Giving my more than 100 % in this area.
+
+8.
+Due to WAS & MQ RHEL7 migration and now with WMB decomm I did not get much time to work on any RFP. But still I was part of German Rail migration to cloud. 
+And resolved the Hotel & Payment issue even before the IBM could fix them & that too they were having these issues for more than 3 - 4 months or so.
+I have received the Client appreciation for all of these 3 attempts.
+
+9.
+Target achieved
+
+10.
+1. I have given the sAFE 5 certificate & now certified. Also, have improved my technical skills by more than 50 % in both WAS & MQ area..
+Also planning to improve the competency with in the system.
+
+11.
+This is something I am lacking as did not get much time beacuse of lenghthy migrations I have been involved in the last financial year & now with decomm.
+Will try to focus on this as soon as I have some bandwidth available.
+
+12.
+This is also something I need to improve as I could not win any event but participated in Talent Ocean & provided the idea. But I have received couple of appreciation from the client for WAS & MQ work I did.
+
+
+
+
+Attribute
+1.
+A lot of times while working on an issue I did in depth analysis & shared my investigation with customer & provided the solutions & they were agreed for the same.. And apart from that I have also suggested the Customer which approach we should follow for the important migration & they agreed with the same. And I am not hesitant to say that it really helped the project..
+
+
+2.
+I have given sAFE 5 certificate & now certified in that. I am keep on learning project technologies like WAS & MQ and also trying to learn technologies through TCS platform like iEvolve, Lynda etc.
+
+
+3.
+Have received couple of appreciations from the client for the work.
+
+4.
+I have given 100 % to this. Always ready to take up the challenging assignments. As a proactiveness I have provided couple of analsysis as below.
+1. I have given history command addition through which we can track who has done the scripts.Client has accepted the proposal.
+2. Also beyond that I have figured out that by changing the permission levels we can also save the Queue Manager by going corrupt, which will save at least 10 hours per Queue manager. And can save 30 - 40 hours per year.
+
+
+5.
+As stated above I have provided couple of inputs to clients to which Client is happy & accepted the idea which will not only make the project more stable but also save a lot of man hours.
+
+
+6.
+I never hesitated to help any of my team member, during the WAS RHEL7 migrations, I was always present whenever my team needed me & helped them by resolving their no. of issues
+ & also guided them how it was resolved so that they can take care of that next time.. I have asked them they can be reached out to me without any hesitation & I am always Ok to explain the same concepts again & again if they could not get it at 1st time.
+Also with client I have built good relationship during the years & always been proactive & creative..
+
+
+7. all done
+100 % achieved.
